@@ -5,7 +5,7 @@ import React, { useContext, useReducer } from "react";
 //////////////////////
 
 const initialState = {
-  url: "http://amreactrailsbackend.herokuapp.com",
+  url: "https://amreactrailsbackend.herokuapp.com",
   token: null,
   username: null,
   notes: null,
